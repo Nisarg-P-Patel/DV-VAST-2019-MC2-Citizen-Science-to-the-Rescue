@@ -1,0 +1,18 @@
+#mainMap svg,
+#mainMap canvas {
+    position: absolute;
+}
+
+.slider text {
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.project-title {
+    text-align: center;
+    font-size: 2em;
+    color: #333;
+    border-bottom: 2px solid #aeaeae;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
